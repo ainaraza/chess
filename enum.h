@@ -1,6 +1,7 @@
 #ifndef ENUM_H_INCLUDED
 #define ENUM_H_INCLUDED
 // ce fichier contient les headers a inclure dans tous les fichiers 
+// atrika
 #include <stdlib.h>
 #include <stdio.h>
 #include <SDL/SDL.h>
